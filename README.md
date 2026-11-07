@@ -1,1 +1,0 @@
-# penguin-data-analysis-Pythonszorgalmi
